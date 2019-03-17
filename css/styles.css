@@ -1,0 +1,14 @@
+{
+  margin: 0;
+  padding: 0;
+}
+  header
+  {
+    background-image: url(africa.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+  }
+.black{
+  background-color: black;
+}
