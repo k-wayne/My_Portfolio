@@ -11,4 +11,13 @@
   }
 .black{
   background-color: black;
+
+}
+
+.box{
+  width: 600px;
+  height: 400px;
+  padding: 20px;
+  margin: 100px auto;
+  box-shadow: 0px 0px 10px 2px red; 
 }
