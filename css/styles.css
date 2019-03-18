@@ -40,7 +40,7 @@ img {
 }
 .text1{
   float: left;
-  
+
 
 }
 .entire{
@@ -70,4 +70,12 @@ img {
   background-blend-mode: lighten;
   margin-top: 0px;
   font-style: italic;
+}
+ul{
+  text-align: center;
+  text-decoration-line: underline;
+  text-emphasis-color: red;
+  font-size: 30px;
+  font-size-adjust: auto;
+  margin-bottom: 4px;
 }
