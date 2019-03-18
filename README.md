@@ -9,7 +9,9 @@ A sample readme for the My_portfolio Wesite Design to match the week assignments
 
 ---
 
-## Lisence & copyrights
+## License & copyrights
 
 K-wayne & company, My_portfolio, moringa school.
+
+Licensed under [MIT license](LICENSE).
 
