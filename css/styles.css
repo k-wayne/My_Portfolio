@@ -60,9 +60,12 @@ img {
   color: black;
   background-color: orange;
   background-blend-mode: lighten;
+  margin-bottom: 0px;
 }
 .titleid2{
   color: black;
   background-color: orange;
   background-blend-mode: lighten;
+  margin-top: 0px;
+  font-style: italic;
 }
