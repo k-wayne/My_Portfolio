@@ -56,3 +56,13 @@ img {
   font-style: oblique;
   font-weight: bold;
 }
+.titleid{
+  color: black;
+  background-color: orange;
+  background-blend-mode: lighten;
+}
+.titleid2{
+  color: black;
+  background-color: orange;
+  background-blend-mode: lighten;
+}
