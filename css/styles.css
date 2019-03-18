@@ -39,7 +39,9 @@ img {
   height: 400px;
 }
 .text1{
-  float: right;
+  float: left;
+  
+
 }
 .entire{
   color: white;
